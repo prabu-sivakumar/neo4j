@@ -120,7 +120,7 @@
     <license-text.header>headers/AGPL-3-header.txt</license-text.header>
 
     <jamm.version>0.3.3</jamm.version>
-    <lucene.version>9.4.0</lucene.version>
+    <lucene.version>9.4.1</lucene.version>
     <bouncycastle.version>1.70</bouncycastle.version>
     <jetty.version>9.4.49.v20220914</jetty.version>
     <scala-maven-plugin.version>4.4.1</scala-maven-plugin.version>
@@ -742,7 +742,7 @@
             <enabled>true</enabled>
           </upToDateChecking>
           <java>
-            <palantirJavaFormat />
+            <palantirJavaFormat/>
           </java>
           <scala>
             <scalafmt>
