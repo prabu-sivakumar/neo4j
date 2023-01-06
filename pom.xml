@@ -127,7 +127,7 @@
     <scala.version>2.13.8</scala.version>
     <scala.binary.version>2.13</scala.binary.version>
     <scala.plugin.recompileMode>all</scala.plugin.recompileMode>
-    <scala.test.version>3.2.13</scala.test.version>
+    <scala.test.version>3.2.15</scala.test.version>
     <asm.version>9.4</asm.version>
     <metrics.version>4.2.12</metrics.version>
     <scala.target.vm>17</scala.target.vm>
@@ -742,7 +742,7 @@
             <enabled>true</enabled>
           </upToDateChecking>
           <java>
-            <palantirJavaFormat />
+            <palantirJavaFormat/>
           </java>
           <scala>
             <scalafmt>
