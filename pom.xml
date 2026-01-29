@@ -742,7 +742,7 @@
             <enabled>true</enabled>
           </upToDateChecking>
           <java>
-            <palantirJavaFormat />
+            <palantirJavaFormat/>
           </java>
           <scala>
             <scalafmt>
@@ -1125,7 +1125,7 @@
       <dependency>
         <groupId>org.assertj</groupId>
         <artifactId>assertj-core</artifactId>
-        <version>3.18.1</version> <!-- 3.19.x requires junit platform 1.8.x -->
+        <version>3.27.7</version> <!-- 3.19.x requires junit platform 1.8.x -->
         <scope>test</scope>
       </dependency>
       <dependency>
